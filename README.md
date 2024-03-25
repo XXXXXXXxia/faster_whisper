@@ -1,0 +1,2 @@
+# faster_whisper
+此仓库用来盛放用调用openai的FasterWhisper来进行实时语音识别的项目（opl校赛）
